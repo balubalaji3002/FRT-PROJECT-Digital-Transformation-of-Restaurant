@@ -85,3 +85,14 @@ CONTACT AND MAKE RESERVATION TAB
 
 
 ![Screenshot (188)](https://user-images.githubusercontent.com/66003194/199091987-4c736a8c-53be-41e3-b0f7-67033619a5fb.png)
+
+
+
+
+
+TECH STACK
+Azure(Hosting)
+HTML
+CSS
+Bootstrap
+JavaScript

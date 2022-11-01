@@ -91,8 +91,8 @@ CONTACT AND MAKE RESERVATION TAB
 
 
 TECH STACK
-Azure(Hosting)
-HTML
-CSS
-Bootstrap
-JavaScript
+1.Azure(Hosting).
+2.HTML.
+3.CSS.
+4.Bootstrap.
+5.JavaScript.

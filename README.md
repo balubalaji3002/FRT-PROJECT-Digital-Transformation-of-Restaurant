@@ -13,7 +13,7 @@ This web based restaurant application has been developed for the accomplishment 
 
 Project Link - https://foodvilla.azurewebsites.net/
 
-Demo Video - https://www.youtube.com/watch?v=_pKWyCiRrcg&t=2s
+Demo Video -https://youtu.be/LlVfdHF6Mh4
 
 Features and Functionalities 😃
 Interactive and responsive UI.
